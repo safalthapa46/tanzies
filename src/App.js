@@ -41,6 +41,8 @@ function App() {
       </div>
 
       <button className="roll" onClick={Roll}>ROLL</button>
+      <button className="roll" onClick={Roll}>ROLL</button>
+
     </main>
   );
 }
