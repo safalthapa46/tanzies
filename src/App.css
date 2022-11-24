@@ -46,15 +46,35 @@ main {
 
 .roll {
   height: 50px;
-  width: 100px;
+  width: 150px;
   border-radius: 10px;
   color: white;
   border: none;
   background-color: blue;
-  font-size: 24px;
+  font-size: 22px;
   cursor: pointer;
 }
 
 .roll:active {
   box-shadow: inset 5px 5px 10px -3px rgba(0, 0, 0, 0.7);
+}
+
+
+
+
+
+
+
+
+
+.head {
+  font-size: 40px;
+  margin: 0;
+}
+
+.rule{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  margin-top: 0;
+  text-align: center;
 }
